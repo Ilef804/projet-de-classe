@@ -59,7 +59,7 @@ int main() {
 
     double tauxApprentissage = 0.001;
 
-    // Entraînement du neurone
+    // EntraÃ®nement du neurone
         entrainerNeurone(&neurone, dataset,tauxApprentissage);
 
     printf("after training\n");
