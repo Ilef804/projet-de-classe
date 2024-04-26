@@ -1,1 +1,1 @@
-Ilef Msaddak \n MPI A \n neural network project
+Ilef Msaddak MPI A neural network project
